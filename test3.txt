@@ -1,24 +1,5 @@
 
-dev edit it
-aaa1
 Creating a new branch is quick and simple.
+fix bugs 1.
 
 
-MMMMMM1
-
-FFFFFF3
-
-
-
-MMM2
-
-FFF5
-FFFFFF4
-
-F5
-
-edit it on dev
-
-edit2 dev
-
-edit3 dev3
