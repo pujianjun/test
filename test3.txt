@@ -4,4 +4,7 @@ fix bugs 1.
 
 edit it on branch dev 20190608
 
+
 eidt it on mac 1
+
+windows edit 1
